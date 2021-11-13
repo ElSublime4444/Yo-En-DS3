@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Mi aventura en Dark souls 3</h1>
+ <p>Iudex Gundyr</p> 
+  <p1>Iudex Gundyr lleva una armadura plateada de cuerpo entero. Además de eso porta una alabarda de unos seis metros de longitud, con la que atacará al jugador, después de que éste le saque la espada que tiene incrustada en el pecho.</p1>
+   <img src="iudex1.jpg"
+    <p2>En la segunda fase del combate, una criatura oscura surgirá de la parte superior de su cuerpo, impidiendo que se le vea la cabeza a Gundyr. Esta criatura dotará al guerrero con una gran garra oscura, proveniente de la misma criatura.</p2>
+       <img src="iudex2.jpg"
+</body>
+</html>
